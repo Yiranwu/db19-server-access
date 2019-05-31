@@ -8,6 +8,8 @@ SSH tools support remote connections. Install an SSH tool, for example in Linux:
 
 VPN is required to connect to the server. You can follow [Install Cisco Anyconnect on Linux](https://it.umn.edu/downloads-guides-install-anyconnect-vpn-3) to setup the VPN tool.
 
+If you are using Manjaro/Archlinux, then "openconnect" is also a good substitute for the official client.  
+
 Start VPN connection with
 
 ```
