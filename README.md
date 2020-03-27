@@ -4,11 +4,11 @@ SSH tools support remote connections. Install an SSH tool, for example in Linux:
 
 `sudo apt install openssh-client -y`
 
+For Windows user, the git bash have already installed an SSH tool that you can use.
+
 # Setting up VPN
 
-VPN is required to connect to the server. You can follow [Install Cisco Anyconnect on Linux](https://it.umn.edu/downloads-guides-install-anyconnect-vpn-3) to setup the VPN tool.
-
-If you are using Manjaro/Archlinux, then "openconnect" is also a good substitute for the official client.  
+VPN is required to connect to the server. You can use "openconnect" as your VPN tool, where installation guide can be easily found.
 
 Start VPN connection with
 
