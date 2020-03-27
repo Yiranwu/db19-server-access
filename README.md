@@ -1,4 +1,7 @@
-# Setting up SSH
+# acmdb connection setup guide
+I inherit this guidline from senior ACM students and make some updates.
+
+## Setting up SSH
 
 SSH tools support remote connections. Install an SSH tool, for example in Linux:
 
@@ -6,11 +9,11 @@ SSH tools support remote connections. Install an SSH tool, for example in Linux:
 
 For Windows user, the git bash have already installed an SSH tool that you can use.
 
-# Setting up VPN
+## Setting up VPN
 
 VPN is required to connect to the server. You can use "openconnect" as your VPN tool, where installation guide can be easily found.
 
-Start VPN connection with
+Start VPN connection with:
 
 ```
 server: anyconnect.apexlab.org:4443
@@ -18,7 +21,7 @@ username: apexlab
 pw: 51apexlabvpn
 ```
 
-# Connecting to the server
+## Connecting to the server
 
 Start SSH connection with
 
