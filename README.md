@@ -11,7 +11,7 @@ For Windows user, the git bash have already installed an SSH tool that you can u
 
 ## Setting up VPN
 
-VPN is required to connect to the server. You can use "openconnect" as your VPN tool, where installation guide can be easily found.
+VPN is required to connect to the server. You can use "openconnect" as your VPN tool, where installation guide can be easily found on internet.
 
 Start VPN connection with:
 
